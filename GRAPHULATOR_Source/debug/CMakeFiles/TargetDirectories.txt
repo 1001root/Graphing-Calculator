@@ -1,0 +1,3 @@
+/home/ashish/Downloads/proj/trycl/debug/CMakeFiles/rebuild_cache.dir
+/home/ashish/Downloads/proj/trycl/debug/CMakeFiles/trycl.dir
+/home/ashish/Downloads/proj/trycl/debug/CMakeFiles/edit_cache.dir
