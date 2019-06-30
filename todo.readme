@@ -1,7 +1,12 @@
 #Graphulator
 
 #Source Compilation
-Project GRAPHULATOR_Source could be compiled(if needed) by Clion IDE as cmake files are pre-written.Else Terminal is there and linking can be done as Cmakelists.txt in Graphulator_Source/ directory.
+For Windows 
+Project GRAPHULATOR_Source could be compiled(if needed) by Clion IDE as cmake files are pre-written.
+
+For Linux
+make build.sh executable
+run build.sh
 
 #Executables
 binaries or Executables for windows_64 and linux distro are available in executables directory.

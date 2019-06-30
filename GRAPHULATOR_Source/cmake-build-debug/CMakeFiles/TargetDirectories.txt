@@ -1,3 +1,0 @@
-/home/ashish/Downloads/proj/GRAPHULATOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ashish/Downloads/proj/GRAPHULATOR/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ashish/Downloads/proj/GRAPHULATOR/cmake-build-debug/CMakeFiles/trycl.dir
